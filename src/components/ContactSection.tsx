@@ -102,7 +102,7 @@ const ContactSection = () => {
             </div>
             
             <p className="text-muted-foreground text-sm">
-              © 2024 Alex Rivera. Crafted with passion using Next.js & Tailwind CSS.
+              © 2025 Geraldo Barros. Crafted with passion using Next.js & Tailwind CSS.
             </p>
           </div>
         </div>

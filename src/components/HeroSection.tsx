@@ -21,7 +21,7 @@ const HeroSection = () => {
           </h1>
           
           <div className="text-xl md:text-2xl text-muted-foreground mb-4 font-light">
-            Hi, I'm <span className="text-primary font-semibold">Alex Rivera</span>
+            Hi, I'm <span className="text-primary font-semibold">Geraldo Barros</span>
           </div>
           
           <p className="text-lg md:text-xl text-muted-foreground mb-12 max-w-3xl mx-auto leading-relaxed">
