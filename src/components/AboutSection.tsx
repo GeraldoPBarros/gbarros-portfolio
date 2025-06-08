@@ -27,12 +27,12 @@ const AboutSection = () => {
           
           <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="p-6 rounded-lg bg-card border border-border hover:border-primary/50 transition-colors duration-300">
-              <div className="text-3xl font-bold text-primary mb-2">50+</div>
+              <div className="text-3xl font-bold text-primary mb-2">20+</div>
               <div className="text-sm text-muted-foreground">Projects Completed</div>
             </div>
             
             <div className="p-6 rounded-lg bg-card border border-border hover:border-secondary/50 transition-colors duration-300">
-              <div className="text-3xl font-bold text-secondary mb-2">3+</div>
+              <div className="text-3xl font-bold text-secondary mb-2">6+</div>
               <div className="text-sm text-muted-foreground">Years Experience</div>
             </div>
             
